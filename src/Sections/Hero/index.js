@@ -191,11 +191,11 @@ const HeroSection = () => {
         <Lb id="leftBlock">
           <Topic>
             <Circle />
-            <span>We Build Web</span>
+            <span>Elevate Your Online Visibility</span>
           </Topic>
           <Title>Transforming your digital presence</Title>
           <SubText>
-            we help fast growing businesses build Award-Winning Websites and Turbocharge Your SEO Success with Our Expertise! 
+          Unleash the full potential of your online campaigns with Feedback. We're not just experts; we're architects of digital success. Watch us transform your ad spend into conversions, clicks into customers, and data into dollars. Let's redefine your digital advertising journey together.
           </SubText>
           <CTA>
             Get in touch &nbsp;

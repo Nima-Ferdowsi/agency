@@ -139,7 +139,7 @@ const About = () => {
             </Human>
 
             <Text>
-            At Feedback, we're not just web designers and SEO experts; we're architects of online success stories. With a passion for innovation and a commitment to excellence, we craft visually stunning websites that captivate and optimize strategies that dominate search engines. Let's transform your digital presence into a success story worth sharing!
+            At Feedback we're not just advertisers; we're architects of success in the digital realm. Our mission? To make your brand shine on the world's biggest stage—Google. With a passion for precision and a knack for nailing the right keywords, we transform clicks into conversions and budgets into ROI. Elevate your online game with us. Dare to dream big, and let's turn clicks into customers together. 
             </Text>
             <div>
               <Circle style={{ backgroundColor: "var(--purple)" }} />

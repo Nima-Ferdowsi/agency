@@ -327,11 +327,11 @@ const Services = () => {
       <Content ref={addToRefs}>
         <TextBlock
           topic="Design"
-          title={<h1>We Develope high quality Web & App</h1>}
+          title={<h1>Unlock Growth with Precision: Google Ads Mastery</h1>}
           subText={
             <h5>
-             Experience the future of web development with us. We sculpt your online identity, utilizing the latest technologies and creative insights for remarkable websites and apps.
-            </h5>
+             Our Google Ads expertise fuels your business growth. Harness the full potential of online advertising with tailor-made solutions designed to drive results."
+             </h5>
           }
         />
         <OBJ>
@@ -342,11 +342,10 @@ const Services = () => {
       <Content ref={addToRefs}>
         <TextBlock
           topic="Develop"
-          title={<h1>SEO Alchemy: Turning Your Website into a Search Engine Magnet</h1>}
+          title={<h1>Your Success, Our Priority</h1>}
           subText={
             <h5>
-              We build appropriate solution to develope your website & app with
-              best tools available
+              Discover the winning formula for online advertising. Our team of Google Ads specialists will propel your business to new heights, ensuring maximum ROI and visibility.
             </h5>
           }
         />
