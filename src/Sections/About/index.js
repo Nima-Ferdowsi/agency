@@ -139,7 +139,7 @@ const About = () => {
             </Human>
 
             <Text>
-            At Feedback, we're not just web designers and SEO experts; we're architects of online success stories. With a passion for innovation and a commitment to excellence, we craft visually stunning websites that captivate and optimize strategies that dominate search engines. Let's transform your digital presence into a success story worth sharing!
+            At Gxmind, we're not just web designers and SEO experts; we're architects of online success stories. With a passion for innovation and a commitment to excellence, we craft visually stunning websites that captivate and optimize strategies that dominate search engines. Let's transform your digital presence into a success story worth sharing!
             </Text>
             <div>
               <Circle style={{ backgroundColor: "var(--purple)" }} />
